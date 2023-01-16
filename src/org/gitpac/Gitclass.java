@@ -8,7 +8,6 @@ public class Gitclass {
 		int d = a + b + c
 		System.out.println(d);
 		System.out.println("ARUN");
-		System.out.println("Testing");
 	}
 
 }
